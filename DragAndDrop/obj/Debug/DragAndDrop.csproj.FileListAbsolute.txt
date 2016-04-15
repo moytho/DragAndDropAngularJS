@@ -1,0 +1,6 @@
+c:\users\miyabean\documents\visual studio 2013\Projects\DragAndDrop\DragAndDrop\bin\DragAndDrop.dll.config
+c:\users\miyabean\documents\visual studio 2013\Projects\DragAndDrop\DragAndDrop\bin\DragAndDrop.dll
+c:\users\miyabean\documents\visual studio 2013\Projects\DragAndDrop\DragAndDrop\bin\DragAndDrop.pdb
+c:\users\miyabean\documents\visual studio 2013\Projects\DragAndDrop\DragAndDrop\obj\Debug\DragAndDrop.csprojResolveAssemblyReference.cache
+c:\users\miyabean\documents\visual studio 2013\Projects\DragAndDrop\DragAndDrop\obj\Debug\DragAndDrop.dll
+c:\users\miyabean\documents\visual studio 2013\Projects\DragAndDrop\DragAndDrop\obj\Debug\DragAndDrop.pdb
